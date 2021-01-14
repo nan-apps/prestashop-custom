@@ -4,5 +4,3 @@
 !.gitignore
 !pdf/
 !themes/
-themes/*
-!themes/classic
