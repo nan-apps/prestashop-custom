@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+!.gitignore
+!pdf/
+!themes/
+themes/*
+!themes/classic
